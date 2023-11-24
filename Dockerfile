@@ -7,5 +7,5 @@ RUN apt-get update && \
 RUN echo 'root:mdzz12138' | chpasswd
 
 EXPOSE 22
-
-CMD ["/usr/bin/shellinaboxd","-t","-s","/:LOEGIN"]
+，,aa
+CMD ["/usr/bin/shellinaboxd","-t","-s","/:LOGIN"]
